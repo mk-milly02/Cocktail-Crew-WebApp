@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LImhOVEXERP3cJMaKYwebGjRccAEbl1lt1ahkLFqGIjSkOiCPw08bix4apeBK6rXLjngCOKEZdJTuZEk63WewA==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\jonas\\OneDrive\\Desktop\\Programming\\C#\\Projects\\CocktailApplication\\CocktailApplication.Service\\CocktailApplication.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jonas\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
