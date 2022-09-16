@@ -14,7 +14,7 @@ namespace CocktailApplication.Service
 
         public async Task<IEnumerable<Drink>?> Filter(string category)
         {
-            string uri = $"www.thecocktaildb.com/api/json/v1/1/filter.php?c={category}";
+            string uri = $"https://www.thecocktaildb.com/api/json/v1/1/filter.php?c={category}";
             var response = await _client.GetAsync(uri);
 
             if (response.IsSuccessStatusCode)
@@ -28,7 +28,7 @@ namespace CocktailApplication.Service
 
         public async Task<IEnumerable<Drink>?> GetAllIngredients()
         {
-            string uri = "www.thecocktaildb.com/api/json/v1/1/list.php?i=list";
+            string uri = "https://www.thecocktaildb.com/api/json/v1/1/list.php?i=list";
             var response = await _client.GetAsync(uri);
 
             if (response.IsSuccessStatusCode)
@@ -42,7 +42,7 @@ namespace CocktailApplication.Service
 
         public async Task<Drink?> Lookup()
         {
-            string uri = $"www.thecocktaildb.com/api/json/v1/1/random.php";
+            string uri = $"https://www.thecocktaildb.com/api/json/v1/1/random.php";
             var response = await _client.GetAsync(uri);
 
             if (response.IsSuccessStatusCode)
@@ -56,7 +56,7 @@ namespace CocktailApplication.Service
 
         public async Task<IEnumerable<Drink>?> Search(string name)
         {
-            string uri = $"www.thecocktaildb.com/api/json/v1/1/search.php?s={name}";
+            string uri = $"http://www.thecocktaildb.com/api/json/v1/1/search.php?s={name}";
             var response = await _client.GetAsync(uri);
 
             if (response.IsSuccessStatusCode)

@@ -1,0 +1,19 @@
+@model IEnumerable<string>
+@{
+	ViewData["Title"] = "Ingredients";
+}
+
+<div style="height: 500px;">
+    <h2 class="hero-name" style="color: #EE6900;">Ingredients</h2>
+
+    <div class="mt-3 row px-3">
+        <ul style="column-count: 4; column-gap: 100px;">
+            @{
+                foreach (var ingredient in Model)
+                {
+                    <li>@ingredient</li>
+                }
+            }
+        </ul>
+    </div>
+</div>

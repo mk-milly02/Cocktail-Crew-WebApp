@@ -24,3 +24,9 @@ C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\CocktailApplication\Cock
 C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\CocktailApplication\CocktailApplication.Presentation\obj\Debug\net6.0\CocktailApplication.Presentation.pdb
 C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\CocktailApplication\CocktailApplication.Presentation\obj\Debug\net6.0\CocktailApplication.Presentation.genruntimeconfig.cache
 C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\CocktailApplication\CocktailApplication.Presentation\obj\Debug\net6.0\ref\CocktailApplication.Presentation.dll
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\CocktailApplication\CocktailApplication.Presentation\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\CocktailApplication\CocktailApplication.Presentation\bin\Debug\net6.0\CocktailApplication.Domain.dll
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\CocktailApplication\CocktailApplication.Presentation\bin\Debug\net6.0\CocktailApplication.Service.dll
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\CocktailApplication\CocktailApplication.Presentation\bin\Debug\net6.0\CocktailApplication.Service.pdb
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\CocktailApplication\CocktailApplication.Presentation\bin\Debug\net6.0\CocktailApplication.Domain.pdb
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\CocktailApplication\CocktailApplication.Presentation\obj\Debug\net6.0\CocktailApplication.Presentation.csproj.CopyComplete
