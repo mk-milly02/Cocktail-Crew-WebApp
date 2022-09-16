@@ -1,0 +1,12 @@
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\CocktailApplication\CocktailApplication.Domain\bin\Debug\net6.0\CocktailApplication.Domain.deps.json
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\CocktailApplication\CocktailApplication.Domain\bin\Debug\net6.0\CocktailApplication.Domain.dll
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\CocktailApplication\CocktailApplication.Domain\bin\Debug\net6.0\CocktailApplication.Domain.pdb
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\CocktailApplication\CocktailApplication.Domain\obj\Debug\net6.0\CocktailApplication.Domain.csproj.AssemblyReference.cache
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\CocktailApplication\CocktailApplication.Domain\obj\Debug\net6.0\CocktailApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\CocktailApplication\CocktailApplication.Domain\obj\Debug\net6.0\CocktailApplication.Domain.AssemblyInfoInputs.cache
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\CocktailApplication\CocktailApplication.Domain\obj\Debug\net6.0\CocktailApplication.Domain.AssemblyInfo.cs
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\CocktailApplication\CocktailApplication.Domain\obj\Debug\net6.0\CocktailApplication.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\CocktailApplication\CocktailApplication.Domain\obj\Debug\net6.0\CocktailApplication.Domain.dll
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\CocktailApplication\CocktailApplication.Domain\obj\Debug\net6.0\refint\CocktailApplication.Domain.dll
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\CocktailApplication\CocktailApplication.Domain\obj\Debug\net6.0\CocktailApplication.Domain.pdb
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\CocktailApplication\CocktailApplication.Domain\obj\Debug\net6.0\ref\CocktailApplication.Domain.dll

@@ -1,0 +1,15 @@
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\CocktailApplication\CocktailApplication.Service\bin\Debug\net6.0\CocktailApplication.Service.deps.json
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\CocktailApplication\CocktailApplication.Service\bin\Debug\net6.0\CocktailApplication.Service.dll
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\CocktailApplication\CocktailApplication.Service\bin\Debug\net6.0\CocktailApplication.Service.pdb
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\CocktailApplication\CocktailApplication.Service\bin\Debug\net6.0\CocktailApplication.Domain.dll
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\CocktailApplication\CocktailApplication.Service\bin\Debug\net6.0\CocktailApplication.Domain.pdb
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\CocktailApplication\CocktailApplication.Service\obj\Debug\net6.0\CocktailApplication.Service.csproj.AssemblyReference.cache
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\CocktailApplication\CocktailApplication.Service\obj\Debug\net6.0\CocktailApplication.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\CocktailApplication\CocktailApplication.Service\obj\Debug\net6.0\CocktailApplication.Service.AssemblyInfoInputs.cache
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\CocktailApplication\CocktailApplication.Service\obj\Debug\net6.0\CocktailApplication.Service.AssemblyInfo.cs
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\CocktailApplication\CocktailApplication.Service\obj\Debug\net6.0\CocktailApplication.Service.csproj.CoreCompileInputs.cache
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\CocktailApplication\CocktailApplication.Service\obj\Debug\net6.0\CocktailApplication.Service.csproj.CopyComplete
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\CocktailApplication\CocktailApplication.Service\obj\Debug\net6.0\CocktailApplication.Service.dll
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\CocktailApplication\CocktailApplication.Service\obj\Debug\net6.0\refint\CocktailApplication.Service.dll
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\CocktailApplication\CocktailApplication.Service\obj\Debug\net6.0\CocktailApplication.Service.pdb
+C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\CocktailApplication\CocktailApplication.Service\obj\Debug\net6.0\ref\CocktailApplication.Service.dll

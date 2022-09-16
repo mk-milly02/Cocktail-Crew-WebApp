@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\jonas\\OneDrive\\Desktop\\Programming\\C#\\Projects\\CocktailApplication\\CocktailApplication.Service\\CocktailApplication.Service.csproj": {}
+    "C:\\Users\\jonas\\OneDrive\\Desktop\\Programming\\C#\\Projects\\CocktailApplication\\CocktailApplication.Service\\CocktailApplication.Service.csproj": {}
   },
   "projects": {
-    "c:\\Users\\jonas\\OneDrive\\Desktop\\Programming\\C#\\Projects\\CocktailApplication\\CocktailApplication.Domain\\CocktailApplication.Domain.csproj": {
+    "C:\\Users\\jonas\\OneDrive\\Desktop\\Programming\\C#\\Projects\\CocktailApplication\\CocktailApplication.Domain\\CocktailApplication.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\jonas\\OneDrive\\Desktop\\Programming\\C#\\Projects\\CocktailApplication\\CocktailApplication.Domain\\CocktailApplication.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\jonas\\OneDrive\\Desktop\\Programming\\C#\\Projects\\CocktailApplication\\CocktailApplication.Domain\\CocktailApplication.Domain.csproj",
         "projectName": "CocktailApplication.Domain",
-        "projectPath": "c:\\Users\\jonas\\OneDrive\\Desktop\\Programming\\C#\\Projects\\CocktailApplication\\CocktailApplication.Domain\\CocktailApplication.Domain.csproj",
+        "projectPath": "C:\\Users\\jonas\\OneDrive\\Desktop\\Programming\\C#\\Projects\\CocktailApplication\\CocktailApplication.Domain\\CocktailApplication.Domain.csproj",
         "packagesPath": "C:\\Users\\jonas\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\jonas\\OneDrive\\Desktop\\Programming\\C#\\Projects\\CocktailApplication\\CocktailApplication.Domain\\obj\\",
+        "outputPath": "C:\\Users\\jonas\\OneDrive\\Desktop\\Programming\\C#\\Projects\\CocktailApplication\\CocktailApplication.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "c:\\Users\\jonas\\OneDrive\\Desktop\\Programming\\C#\\Projects\\CocktailApplication\\CocktailApplication.Service\\CocktailApplication.Service.csproj": {
+    "C:\\Users\\jonas\\OneDrive\\Desktop\\Programming\\C#\\Projects\\CocktailApplication\\CocktailApplication.Service\\CocktailApplication.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\jonas\\OneDrive\\Desktop\\Programming\\C#\\Projects\\CocktailApplication\\CocktailApplication.Service\\CocktailApplication.Service.csproj",
+        "projectUniqueName": "C:\\Users\\jonas\\OneDrive\\Desktop\\Programming\\C#\\Projects\\CocktailApplication\\CocktailApplication.Service\\CocktailApplication.Service.csproj",
         "projectName": "CocktailApplication.Service",
-        "projectPath": "c:\\Users\\jonas\\OneDrive\\Desktop\\Programming\\C#\\Projects\\CocktailApplication\\CocktailApplication.Service\\CocktailApplication.Service.csproj",
+        "projectPath": "C:\\Users\\jonas\\OneDrive\\Desktop\\Programming\\C#\\Projects\\CocktailApplication\\CocktailApplication.Service\\CocktailApplication.Service.csproj",
         "packagesPath": "C:\\Users\\jonas\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\jonas\\OneDrive\\Desktop\\Programming\\C#\\Projects\\CocktailApplication\\CocktailApplication.Service\\obj\\",
+        "outputPath": "C:\\Users\\jonas\\OneDrive\\Desktop\\Programming\\C#\\Projects\\CocktailApplication\\CocktailApplication.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -90,14 +90,15 @@
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "c:\\Users\\jonas\\OneDrive\\Desktop\\Programming\\C#\\Projects\\CocktailApplication\\CocktailApplication.Domain\\CocktailApplication.Domain.csproj": {
-                "projectPath": "c:\\Users\\jonas\\OneDrive\\Desktop\\Programming\\C#\\Projects\\CocktailApplication\\CocktailApplication.Domain\\CocktailApplication.Domain.csproj"
+              "C:\\Users\\jonas\\OneDrive\\Desktop\\Programming\\C#\\Projects\\CocktailApplication\\CocktailApplication.Domain\\CocktailApplication.Domain.csproj": {
+                "projectPath": "C:\\Users\\jonas\\OneDrive\\Desktop\\Programming\\C#\\Projects\\CocktailApplication\\CocktailApplication.Domain\\CocktailApplication.Domain.csproj"
               }
             }
           }
