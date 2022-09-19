@@ -35,6 +35,13 @@ public class HomeController : Controller
         return View(model);
     }
 
+    [Route("{controller}/results")]
+    public async Task<IActionResult> Search(string name)
+    {
+        var model = await _cocktail.Search(name);
+        return model != null ? View(model) : View("NoResultsFound");
+    }
+
     public IActionResult Privacy()
     {
         return View();

@@ -34,9 +34,9 @@
                     </ul>
                 </div>
                 <div class="justify-self-end align-self-center me-5">
-                    <form asp-action="Search" role="form">
+                    <form method="post" asp-controller="Home" asp-action="Search" role="form">
                         <div class="row">
-                            <input class="form-control search-bar me-2" />
+                            <input name="name" placeholder="Search" class="form-control search-bar me-2" />
                             <button class="my-btn-primary" style="width: 30%;" type="submit">Search</button>
                         </div>
                     </form>
