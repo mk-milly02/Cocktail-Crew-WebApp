@@ -1,4 +1,6 @@
-﻿@{
+﻿@using CocktailApplication.Domain
+@model Drink?
+@{
 	ViewData["Title"] = "Home Page";
 }
 
@@ -71,6 +73,44 @@
 				Aperol, an orange-red liquor invented by the Barbieri brothers in Padova in 1919, is a go-to Spritz option.
 				Low in alcohol, pleasantly citrusy and slightly bitter.
 			</p>
+		</div>
+		<div class="mt-5 row">
+			<div class="col-6">
+				<a class="my-btn-primary" style="background-color: #EE6900;">More</a>
+			</div>
+			<div class="col-6">
+				<a class="my-btn-secondary" style="background-color: #F8A88F;">Search</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!--Lookup-->
+<div class="row justify-content-between mt-5">
+	<div class="col-4">
+		<div class="text-left d-flex flex-column">
+			<div class="row mt-5">
+				<img style="object-fit: contain; border-radius: 40px;" src="@Model.DrinkThumb" />
+			</div>
+			<div class="mt-5">
+				<div class="border-one px-3 py-2" style="border-color: #EE6900;">
+					<h6 style="font-weight: bold;">Ingredients</h6>
+					<ul style="column-count: 2; column-gap: 100px;">
+						<li>@Model.Ingredient1</li>
+						<li>@Model.Ingredient2</li>
+						<li>@Model.Ingredient3</li>
+						<li>@Model.Ingredient4</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="text-left mt-5 col-6">
+		<div>
+			<h2 class="hero-name" style="color: #EE6900;">@Model.Name</h2>
+		</div>
+		<div class="mt-5">
+			<p>@Model.Instructions</p>
 		</div>
 		<div class="mt-5 row">
 			<div class="col-6">

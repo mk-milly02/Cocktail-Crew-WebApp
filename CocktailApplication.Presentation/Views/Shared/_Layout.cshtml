@@ -26,9 +26,20 @@
                             <a class="nav-link text-dark my-nav-link" asp-area="" asp-controller="Home" asp-action="Ingredients">Ingredients</a>
                         </li>
                         <li class="nav-item">
+                            <a class="nav-link text-dark my-nav-link" asp-area="" asp-controller="Home" asp-action="Ingredients">Categories</a>
+                        </li>
+                        <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
                         </li>
                     </ul>
+                </div>
+                <div class="justify-self-end align-self-center me-5">
+                    <form asp-action="Search" role="form">
+                        <div class="row">
+                            <input class="form-control search-bar me-2" />
+                            <button class="my-btn-primary" style="width: 30%;" type="submit">Search</button>
+                        </div>
+                    </form>
                 </div>
             </div>
         </nav>

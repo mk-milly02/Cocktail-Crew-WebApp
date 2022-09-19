@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using CocktailApplication.Presentation.Models;
 using CocktailApplication.Service;
+using CocktailApplication.Domain;
 
 namespace CocktailApplication.Presentation.Controllers;
 
@@ -14,9 +15,10 @@ public class HomeController : Controller
         _cocktail = cocktail;
     }
 
-    public IActionResult Index()
+    public async Task<IActionResult> Index()
     {
-        return View();
+        Drink? model = await _cocktail.Lookup();
+        return View(model);
     }
 
     [Route("{controller}/list-ingredients")]
