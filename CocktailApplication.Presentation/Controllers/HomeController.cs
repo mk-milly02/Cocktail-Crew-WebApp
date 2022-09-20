@@ -42,6 +42,29 @@ public class HomeController : Controller
         return model != null ? View(model) : View("NoResultsFound");
     }
 
+    [Route("{controller}/categories")]
+    public async Task<IActionResult> Categories()
+    {
+        CatergoryViewModel model = new() 
+        { 
+            CategoryName = "Cocktail",
+            Drinks = await _cocktail.Filter("cocktail")
+        };
+        return View(model);
+    }
+
+    [Route("{controller}/categories")]
+    [HttpPost]
+    public async Task<IActionResult> Categories(string category)
+    {
+        CatergoryViewModel model = new() 
+        { 
+            CategoryName = category,
+            Drinks = await _cocktail.Filter(category)
+        };
+        return View(model);
+    }
+
     public IActionResult Privacy()
     {
         return View();

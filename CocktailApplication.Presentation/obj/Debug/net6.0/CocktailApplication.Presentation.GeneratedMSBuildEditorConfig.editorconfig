@@ -15,6 +15,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\jonas\OneDrive\Desktop\Programming\C#\Projects\CocktailApplication\CocktailApplication.Presentation
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/jonas/OneDrive/Desktop/Programming/C\#/Projects/CocktailApplication/CocktailApplication.Presentation/Views/Home/Categories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXRlZ29yaWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/jonas/OneDrive/Desktop/Programming/C\#/Projects/CocktailApplication/CocktailApplication.Presentation/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

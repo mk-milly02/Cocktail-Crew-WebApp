@@ -96,3 +96,14 @@ body {
   border-radius: 1.9rem;
   width: 60%;
 }
+
+.filter-bar {
+  display: inline-block;
+  line-height: 1.5;
+  vertical-align: middle;
+  border: 1px solid #EE6900;
+  padding: 0.375rem 1.5rem;
+  font-size: 1rem;
+  border-radius: 1.9rem;
+  width: 60%;
+}

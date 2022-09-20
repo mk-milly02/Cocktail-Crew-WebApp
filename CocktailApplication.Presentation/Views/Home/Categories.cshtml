@@ -1,0 +1,45 @@
+@using CocktailApplication.Domain
+@model CatergoryViewModel
+@{
+    ViewData["Title"] = "Categories";
+}
+
+<div class="row">
+    <div class="col-4">
+        <h2 class="hero-name" style="color: #EE6900;">Categories</h2>
+    </div>
+    <div class="col-4 align-self-center">
+        <form method="post" asp-controller="Home" asp-action="Categories" role="form">
+            <div class="row justify-content-center">
+                <select name="category" class="form-control filter-bar me-2">
+                    <option>Select an option</option>
+                    <option>Cocktail</option>
+                    <option>Shot</option>
+                    <option>Ordinary Drink</option>
+                    <option>Other/Unknown</option>
+                </select>
+                <button class="my-btn-primary" style="width: 30%; background-color: #EE6900;" type="submit">Filter</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="border-bottom">
+    <h5 class="text-muted" style="font-weight: bold;">@Model.CategoryName</h5>
+</div>
+
+<div class="row mt-4">
+    @{
+        foreach (var drink in Model.Drinks)
+        {
+            <div class="h-50 border-bottom row p-3">
+                <div class="d-flex justify-content-center col-4 border-end">
+                    <img class="w-50" style="border-radius: 20px;" src="@drink.DrinkThumb" />
+                </div>
+                <div class="row col-4 ms-2 mt-3">
+                    <h5 style="font-weight: 900; color: #EE6900;">@drink.Name</h5>
+                </div>
+            </div>
+        }
+    }
+</div>
